@@ -1,0 +1,1 @@
+# allinonenews_keyboard.shortcut
